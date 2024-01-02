@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.piasy:AudioProcessor:1.7.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3747c2769d7f1e6e86b26a00f5c5e914/jetified-AudioProcessor-1.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../../ST/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/3747c2769d7f1e6e86b26a00f5c5e914/jetified-AudioProcessor-1.7.0/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3747c2769d7f1e6e86b26a00f5c5e914/jetified-AudioProcessor-1.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3747c2769d7f1e6e86b26a00f5c5e914/jetified-AudioProcessor-1.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.piasy/AudioProcessor/1.7.0/56c45d52fd6f312e40f95fbf0d865475162d8d3b/AudioProcessor-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

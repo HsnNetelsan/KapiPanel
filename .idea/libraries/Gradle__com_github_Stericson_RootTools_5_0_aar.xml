@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Stericson:RootTools:5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/a18433f66aaa137798fb7d13a6aca3b3/jetified-RootTools-5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/a18433f66aaa137798fb7d13a6aca3b3/jetified-RootTools-5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/a18433f66aaa137798fb7d13a6aca3b3/jetified-RootTools-5.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.Stericson/RootTools/5.0/9d68a217df888c3f8bd57ba0e1d5d416484c4f12/RootTools-5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

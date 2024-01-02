@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\hasan.kurt\Desktop\genel_git\KapiPanel\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

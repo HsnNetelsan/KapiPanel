@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webrtc:google-webrtc:1.0.30039@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/e879460b164dc6ab706a1c8e70965fe2/jetified-google-webrtc-1.0.30039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/e879460b164dc6ab706a1c8e70965fe2/jetified-google-webrtc-1.0.30039/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/e879460b164dc6ab706a1c8e70965fe2/jetified-google-webrtc-1.0.30039/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/7a794bbd74cc77d3eda9f2dc3d33bb72/jetified-google-webrtc-1.0.30039/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/7a794bbd74cc77d3eda9f2dc3d33bb72/jetified-google-webrtc-1.0.30039/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/7a794bbd74cc77d3eda9f2dc3d33bb72/jetified-google-webrtc-1.0.30039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d37bb2e0f07202c07510350fa789ec4b/jetified-google-webrtc-1.0.30039/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d37bb2e0f07202c07510350fa789ec4b/jetified-google-webrtc-1.0.30039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d37bb2e0f07202c07510350fa789ec4b/jetified-google-webrtc-1.0.30039/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/86e7759cfc2ca5dcfd24ac755876320d/jetified-google-webrtc-1.0.30039/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/86e7759cfc2ca5dcfd24ac755876320d/jetified-google-webrtc-1.0.30039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/86e7759cfc2ca5dcfd24ac755876320d/jetified-google-webrtc-1.0.30039/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d80b6c2318bd1d3667b6d1eda9e7b95e/jetified-google-webrtc-1.0.30039/res" />
+      <root url="file://$PROJECT_DIR$/../../ST/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/1a1c87f1bf212c06145fa843e95b3896/jetified-google-webrtc-1.0.30039/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d80b6c2318bd1d3667b6d1eda9e7b95e/jetified-google-webrtc-1.0.30039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d80b6c2318bd1d3667b6d1eda9e7b95e/jetified-google-webrtc-1.0.30039/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

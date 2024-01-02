@@ -1,0 +1,3 @@
+# ninja log v5
+1	86	724927579	CMakeFiles/serial.dir/src/main/cpp/SerialPort.c.o	8f48571dc2f7db95
+87	138	724927580	../../../../build/intermediates/cmake/debug/obj/x86_64/libserial.so	e01346fc7c925ae6

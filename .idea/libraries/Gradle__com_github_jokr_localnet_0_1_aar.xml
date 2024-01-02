@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jokr:localnet:0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/9e61cbbd9e57909fa1a1f49f1a18acc6/jetified-localnet-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/9e61cbbd9e57909fa1a1f49f1a18acc6/jetified-localnet-0.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/9e61cbbd9e57909fa1a1f49f1a18acc6/jetified-localnet-0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/934dc80fe92b62d98da2b5b42943a67a/jetified-localnet-0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/934dc80fe92b62d98da2b5b42943a67a/jetified-localnet-0.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/934dc80fe92b62d98da2b5b42943a67a/jetified-localnet-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/79ce0bf29c023ef38d1fbccf1b299480/jetified-localnet-0.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/79ce0bf29c023ef38d1fbccf1b299480/jetified-localnet-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/79ce0bf29c023ef38d1fbccf1b299480/jetified-localnet-0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/392e75b731b1346a152753480f9d9aba/jetified-localnet-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/392e75b731b1346a152753480f9d9aba/jetified-localnet-0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/392e75b731b1346a152753480f9d9aba/jetified-localnet-0.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/5b899b82e644c4b7802073cefe3eafd4/jetified-localnet-0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/5b899b82e644c4b7802073cefe3eafd4/jetified-localnet-0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/5b899b82e644c4b7802073cefe3eafd4/jetified-localnet-0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.jokr/localnet/0.1/b2df349acb204bba6fc80f58634dcafcfd6ca8ef/localnet-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.jokr/localnet/0.1/807701af265da2acae0aec46e9690d98b64ce281/localnet-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

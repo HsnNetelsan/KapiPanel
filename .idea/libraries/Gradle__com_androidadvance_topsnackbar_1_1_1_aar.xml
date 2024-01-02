@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="Gradle: com.androidadvance:topsnackbar:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/320905761329f99905cce7b1ead08100/jetified-topsnackbar-1.1.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3e0cb376ab87992f18e702ec24337c39/jetified-topsnackbar-1.1.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/f1625b1b0843789c06d3f7c196671c12/jetified-topsnackbar-1.1.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d1ae737122a67f163499c8ff6c9e54e7/jetified-topsnackbar-1.1.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/8ec675e177d85a279d74482d679c5892/jetified-topsnackbar-1.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/320905761329f99905cce7b1ead08100/jetified-topsnackbar-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/320905761329f99905cce7b1ead08100/jetified-topsnackbar-1.1.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/320905761329f99905cce7b1ead08100/jetified-topsnackbar-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3e0cb376ab87992f18e702ec24337c39/jetified-topsnackbar-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3e0cb376ab87992f18e702ec24337c39/jetified-topsnackbar-1.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/3e0cb376ab87992f18e702ec24337c39/jetified-topsnackbar-1.1.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/f1625b1b0843789c06d3f7c196671c12/jetified-topsnackbar-1.1.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/f1625b1b0843789c06d3f7c196671c12/jetified-topsnackbar-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/f1625b1b0843789c06d3f7c196671c12/jetified-topsnackbar-1.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d1ae737122a67f163499c8ff6c9e54e7/jetified-topsnackbar-1.1.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d1ae737122a67f163499c8ff6c9e54e7/jetified-topsnackbar-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d1ae737122a67f163499c8ff6c9e54e7/jetified-topsnackbar-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/8ec675e177d85a279d74482d679c5892/jetified-topsnackbar-1.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/8ec675e177d85a279d74482d679c5892/jetified-topsnackbar-1.1.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/8ec675e177d85a279d74482d679c5892/jetified-topsnackbar-1.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.androidadvance/topsnackbar/1.1.1/ec707f9718616f1fa0b0a83e2a25ffe30f97de4/topsnackbar-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.androidadvance/topsnackbar/1.1.1/7e2636bcda5697c7b04f04c9f90497a391fbc011/topsnackbar-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

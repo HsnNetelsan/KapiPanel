@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".activity.ScreensaverActivity2">
+
+
+    <RelativeLayout
+        android:id="@+id/dayDreamContainer2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/black">
+
+
+        <RelativeLayout
+            android:id="@+id/dayDreamAnimationContainer2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <RelativeLayout
+            android:id="@+id/ustAnimasyon"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="2dp">
+
+            <RelativeLayout
+                android:id="@+id/dayDreamTimeContainer2"
+                android:layout_width="400dp"
+                android:layout_height="170dp"
+                android:layout_centerInParent="true">
+
+                <RelativeLayout
+                    android:id="@+id/rltLogo"
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp">
+
+
+                    <LinearLayout
+                        android:id="@+id/mainNetelsanRedLogo2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="18dp"
+                            android:layout_marginTop="3dp"
+                            android:layout_marginRight="170dp"
+                            android:src="@drawable/netelsan_top_left_red_logo" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/mainNetelsanLogo2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:fontFamily="@font/handel_gothic_regular"
+                        android:includeFontPadding="false"
+                        android:text="netelsan"
+                        android:textColor="@color/white"
+                        android:textSize="40sp" />
+
+                    <LinearLayout
+                        android:id="@+id/mainNetelsanRegisteredLogo2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="13dp"
+                            android:layout_height="13dp"
+                            android:layout_marginLeft="175dp"
+                            android:layout_marginTop="3dp"
+                            android:src="@drawable/icon_registered" />
+
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@id/rltLogo"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/dayDreamDeviceName2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:textColor="@color/white"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/dayDreamHour2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/light"
+                        android:textColor="@color/white"
+                        android:textSize="22sp" />
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/altAciklama2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/dayDreamContainer2"
+        android:layout_marginBottom="1dp">
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="2000dp"
+                    android:layout_height="90dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="5px"
+                    android:layout_marginBottom="1dp"
+                    android:src="@drawable/test7" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.glomadrian:Grav:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/cc5218d395a25c3149e7c8a5e627e06a/jetified-Grav-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/cc5218d395a25c3149e7c8a5e627e06a/jetified-Grav-1.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/cc5218d395a25c3149e7c8a5e627e06a/jetified-Grav-1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/ec1abb7d413c13dcd88e81a743ba0bb2/jetified-Grav-1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/ec1abb7d413c13dcd88e81a743ba0bb2/jetified-Grav-1.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/ec1abb7d413c13dcd88e81a743ba0bb2/jetified-Grav-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d90bffd9810a28ccbdae7400a6fca1e3/jetified-Grav-1.1/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d90bffd9810a28ccbdae7400a6fca1e3/jetified-Grav-1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d90bffd9810a28ccbdae7400a6fca1e3/jetified-Grav-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/0aeb8367cd5724d881099d747b9c5f1d/jetified-Grav-1.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/0aeb8367cd5724d881099d747b9c5f1d/jetified-Grav-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/0aeb8367cd5724d881099d747b9c5f1d/jetified-Grav-1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d9725420ac0ef1a2e59e2446b735929c/jetified-Grav-1.1/res" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d9725420ac0ef1a2e59e2446b735929c/jetified-Grav-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/d9725420ac0ef1a2e59e2446b735929c/jetified-Grav-1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.glomadrian/Grav/1.1/9c3f16a769b545ef34d7bfe274709540a4b617bc/Grav-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.glomadrian/Grav/1.1/febd86c4850b1bb2cc1e4d5781a74b223017e533/Grav-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

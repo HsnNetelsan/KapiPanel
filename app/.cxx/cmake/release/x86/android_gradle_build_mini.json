@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\hasan.kurt\\Desktop\\genel_git\\KapiPanel\\app\\CMakeLists.txt",
+    "C:\\Users\\hasan.kurt\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\hasan.kurt\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\hasan.kurt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\hasan.kurt\\Desktop\\genel_git\\KapiPanel\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\hasan.kurt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\hasan.kurt\\Desktop\\genel_git\\KapiPanel\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial-Release-x86": {
+      "artifactName": "serial",
+      "buildCommand": "C:\\Users\\hasan.kurt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\hasan.kurt\\Desktop\\genel_git\\KapiPanel\\app\\.cxx\\cmake\\release\\x86\" serial",
+      "abi": "x86",
+      "output": "C:\\Users\\hasan.kurt\\Desktop\\genel_git\\KapiPanel\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libserial.so"
+    }
+  }
+}

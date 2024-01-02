@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.RelayTimeFragment">
+
+    <ScrollView
+        android:id="@+id/relayTimeScrolview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:id="@+id/zeroPointFiveBack"
+                android:background="@color/black"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/zeroPointFive"
+                    android:textColor="@color/white"
+                    android:text="0.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/zeroPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/oneBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/one"
+                    android:textColor="@color/black"
+                    android:text="1 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/oneCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/onePointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/onePointFive"
+                    android:textColor="@color/black"
+                    android:text="1.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/onePointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/twoBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/two"
+                    android:textColor="@color/black"
+                    android:text="2 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/twoCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/twoPointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/twoPointFive"
+                    android:textColor="@color/black"
+                    android:text="2.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/twoPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/threeBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/three"
+                    android:textColor="@color/black"
+                    android:text="3 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/threeCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/threePointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/threePointFive"
+                    android:textColor="@color/black"
+                    android:text="3.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/threePointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fourBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/four"
+                    android:textColor="@color/black"
+                    android:text="4 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/fourCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fourPointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/fourPointFive"
+                    android:textColor="@color/black"
+                    android:text="4.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/fourPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/five"
+                    android:textColor="@color/black"
+                    android:text="5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/fiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fivePointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/fivePointFive"
+                    android:textColor="@color/black"
+                    android:text="5.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/fivePointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sixBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/six"
+                    android:textColor="@color/black"
+                    android:text="6 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/sixCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sixPointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/sixPointFive"
+                    android:textColor="@color/black"
+                    android:text="6.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/sixPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sevenBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/seven"
+                    android:textColor="@color/black"
+                    android:text="7 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/sevenCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sevenPointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/sevenPointFive"
+                    android:textColor="@color/black"
+                    android:text="7.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/sevenPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/eightBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/eight"
+                    android:textColor="@color/black"
+                    android:text="8 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/eightCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/eightPointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/eightPointFive"
+                    android:textColor="@color/black"
+                    android:text="8.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/eightPointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/nineBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/nine"
+                    android:textColor="@color/black"
+                    android:text="9 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/nineCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ninePointFiveBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/ninePointFive"
+                    android:textColor="@color/black"
+                    android:text="9.5 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/ninePointFiveCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tenBack"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/ten"
+                    android:textColor="@color/black"
+                    android:text="10 saniye"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/tenCheck"
+                    android:layout_marginStart="10dp"
+                    android:src="@drawable/icon_check_green"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

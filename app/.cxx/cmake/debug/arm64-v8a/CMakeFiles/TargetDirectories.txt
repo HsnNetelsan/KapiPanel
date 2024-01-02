@@ -1,0 +1,3 @@
+C:/Users/hasan.kurt/Desktop/genel_git/KapiPanel/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/serial.dir
+C:/Users/hasan.kurt/Desktop/genel_git/KapiPanel/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/hasan.kurt/Desktop/genel_git/KapiPanel/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

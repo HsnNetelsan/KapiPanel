@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.netelsan.ipinterkompanel">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="true" />
+
+    <application
+        android:name=".ZilPanelApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:protectionLevel="signature|privileged|system"
+        android:roundIcon="@drawable/ic_launcher_round"
+        android:sharedUserId="android.uid.system"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme_FullScreen_NoActionBar">
+        <activity
+            android:name=".TestRelayActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TestRelayActivity"
+            android:exported="false" />
+        <activity android:name=".activity.ScreensaverActivity2" />
+        <activity
+            android:name=".activity.SplashSelectorActivity"
+            android:screenOrientation="reverseLandscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.MainActivity"
+            android:screenOrientation="reverseLandscape"/>
+
+        <activity
+            android:name=".activity.RootNeededActivity"
+            android:screenOrientation="reverseLandscape" /> <!-- <activity -->
+        <!-- android:name=".activity.call.CallingActivity" -->
+        <!-- android:screenOrientation="reverseLandscape" /> -->
+        <activity
+            android:name=".activity.InitializeActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.InitializeSiteActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.SelectDeviceTypeActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.SelectSystemCenterDeviceActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" /> <!-- <activity -->
+        <!-- android:name=".webrtc.activity.ConnectActivity" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:launchMode="singleInstance" -->
+        <!-- android:theme="@style/AppTheme" -->
+        <!-- android:windowSoftInputMode="adjustPan" /> -->
+        <activity
+            android:name=".webrtc.activity.CallActivity"
+            android:configChanges="orientation|smallestScreenSize|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="fullUser"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.DummyWhiteActivity"
+            android:launchMode="singleInstance"
+            android:noHistory="true"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".dialog_activity.CountDownForCallActivity"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".dialog_activity.NoZilPanelCountDownActivity"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".dialog_activity.NoHostDeviceActivity"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".activity.call.MultipleDeviceCallRequestActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.guvenlik_sistemi.DeviceDisplacementAlarmActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestEthernetActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.DeviceTestActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestScreenActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+
+        <activity
+            android:name=".activity.device_test.TestRelayActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+
+        <activity
+            android:name=".activity.device_test.TestRelayActivity2"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+
+        <activity
+            android:name=".activity.device_test.TestCameraActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestSesActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestLEDActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestMicActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestVideoActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestSdCardActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".activity.device_test.TestRFIDActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+        <activity
+            android:name=".face_detection.FaceDetector"
+            android:launchMode="singleInstance"
+            android:screenOrientation="reverseLandscape"
+            android:theme="@style/AppTheme_FullScreen_NoActionBar" />
+
+        <service
+            android:name=".tcp.Server"
+            android:enabled="true"
+            android:stopWithTask="false" />
+        <service
+            android:name=".service.CapturePhotoService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+        <service
+            android:name=".service.KeyPadService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+        <service
+            android:name=".service.NetworkScanService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+        <service
+            android:name=".service.SystemControlService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+
+        <receiver
+            android:name=".tcp.RestartBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped">
+            <intent-filter>
+                <action android:name="com.netelsan.panel.RestartServiceSensor" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".broadcast_receiver.RestartKeyPadBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped">
+            <intent-filter>
+                <action android:name="com.netelsan.ipinterkompanel.RestartKeyPadService" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".broadcast_receiver.PeriodicAlarmBroadcastReceiver" />
+    </application>
+
+</manifest>

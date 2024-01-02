@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eyalbira.loadingdots:loading-dots:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/1aa3b89edae376564aaa4ef23c106f82/jetified-loading-dots-1.0.2/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/1aa3b89edae376564aaa4ef23c106f82/jetified-loading-dots-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/1aa3b89edae376564aaa4ef23c106f82/jetified-loading-dots-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.eyalbira.loadingdots/loading-dots/1.0.2/cbf9e1689bc1261455cae91f92a00fd24b36113b/loading-dots-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.eyalbira.loadingdots/loading-dots/1.0.2/dbb83fb24096bc3fa2a3af4386428c7fcb0564e3/loading-dots-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

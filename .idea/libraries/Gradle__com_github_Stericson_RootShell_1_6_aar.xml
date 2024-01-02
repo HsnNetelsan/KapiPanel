@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Stericson:RootShell:1.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/c95a0eb6f6e0a62fb137c21f8e3a4ea1/jetified-RootShell-1.6/res" />
+      <root url="file://$PROJECT_DIR$/../../ST/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/c95a0eb6f6e0a62fb137c21f8e3a4ea1/jetified-RootShell-1.6/res" />
+      <root url="file://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/c95a0eb6f6e0a62fb137c21f8e3a4ea1/jetified-RootShell-1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/transforms-2/files-2.1/c95a0eb6f6e0a62fb137c21f8e3a4ea1/jetified-RootShell-1.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/openjdk-17.0.1/caches/modules-2/files-2.1/com.github.Stericson/RootShell/1.6/10164a15998014ec202d1dc9672bae74373eaca9/RootShell-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
